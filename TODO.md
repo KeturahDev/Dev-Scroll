@@ -24,6 +24,7 @@ reminder of behavior list
     - https://socialsharepreview.com/browser-extensions
 - collect the default resources
 - need a POC for editing preview
+- collect list of default links
 
 ### Nav
 
@@ -95,3 +96,7 @@ data to capture:
 
 user tables needed?
 primary default links captured in database
+
+default links:
+
+- https://github.com/trending
