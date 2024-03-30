@@ -2,9 +2,9 @@
 
 By Keturah Smith, March 2024
 
-## Descsription
+## About
 
-A personal project that came out of a desire to spend my scroll time more effectively. This web app is simply aimed to provide a customizable dashboard with default suggestion of content to browse for entertainment to keep your mind and awarness sharp in the Software realm.
+A personal project that came out of a desire to spend my scroll time more effectively as a Software Engineer. This web app is simply aimed to provide a customizable dashboard with default suggestion of links to external content to browse for entertainment to keep your mind and awarness sharp in the Software realm.
 
 I know. I wanted this, you probably will too! I just get good ideas sometimes.
 
@@ -15,11 +15,24 @@ Made with Next.js, primarily because SSR will be grately applicable to the dashb
 - Public Dashboard [WIP]
 - Authenticated Personal Dashboard [Coming Soon]
 
-## Technologies
+### This application was built with:
 
 - Next.js
--
--
+- Tailwind
+
+# MVP Product
+
+### Behavior List
+
+- As a user, when I first land on the webpage, I see the dashboard with minimial nav at the top.
+- The dashboard is made up of a default list of recommended external links to browse through
+- The bottom has a faux add button that directs user to signing in
+- minimal nav is at top, linking to About, Sign Up/Sign in, Send Feedback
+- As a signed in user, Edit Dashboard link is available. Links to Edit page
+- In Edit page, the default links are deletable
+- In Edit page, the Add Link button opens up component with an input of the link.
+- STRETCH GOAL: Add Link section displays preview of the inputted link. Customize preview options available on expansion.
+- On save directs user back to home page, the updated dashboard.
 
 ## Liscense
 
