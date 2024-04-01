@@ -15,6 +15,8 @@ Made with Next.js, primarily because SSR will be grately applicable to the dashb
 - Public Dashboard [WIP]
 - Authenticated Personal Dashboard [Coming Soon]
 
+More technical details and brainstorming in [the TODO.md](https://github.com/KeturahDev/Dev-Scroll/blob/main/TODO.md)
+
 ### This application was built with:
 
 - Next.js
