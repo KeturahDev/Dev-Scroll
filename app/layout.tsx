@@ -19,7 +19,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Theme>
+        <Theme
+          accentColor="yellow"
+          grayColor="sand"
+          radius="small"
+          appearance="dark"
+        >
           <main className="flex min-h-screen flex-col items-center justify-between p-24">
             {children}
           </main>
